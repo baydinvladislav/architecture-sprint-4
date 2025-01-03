@@ -1,27 +1,27 @@
-# Проектная работа 4 спринта: Архитектура ПО
+# Sprint 4 Project Work: Software Architecture
 
-## Задания:
+## Tasks:
 
-### 1. Анализ и планирование
-- Идентифицировать проблемы системы, разработать инициативы и определить приоритеты.
-- Описать целевую архитектуру через полгода и ключевые изменения.
+### 1. Analysis and Planning
+- Identify system issues, develop initiatives, and prioritize them.
+- Describe the target architecture for the next six months and outline key changes.
 
-### 2. Мониторинг
-- Выбрать подход к мониторингу (RED, USE, «Четыре золотых сигнала»).
-- Определить метрики, пороговые значения и действия при их превышении.
-- Создать план действий для реализации мониторинга.
+### 2. Monitoring
+- Choose a monitoring approach (RED, USE, or “The Four Golden Signals”).
+- Define metrics, threshold values, and actions for threshold breaches.
+- Create an action plan for implementing monitoring.
 
-### 3. Трейсинг
-- Определить, какие системы и процессы покрыть трейсингом.
-- Спроектировать решение, включая выбор технологий и мер безопасности.
-- Реализовать автоматический мониторинг и алертинг на основе трейсинга.
+### 3. Tracing
+- Determine which systems and processes to cover with tracing.
+- Design a solution, including technology selection and security measures.
+- Implement automated monitoring and alerting based on tracing.
 
-### 4. Логирование
-- Составить список необходимых логов и уровней логирования.
-- Разработать решение для хранения, анализа и безопасности логов.
-- Настроить алертинг и поиск аномалий в логах.
+### 4. Logging
+- Compile a list of required logs and logging levels.
+- Develop a solution for log storage, analysis, and security.
+- Configure alerting and anomaly detection in logs.
 
-### 5. Кеширование
-- Определить части системы для кеширования и выбрать подход.
-- Разработать стратегию инвалидации кеша и описать процесс.
-- Нарисовать диаграмму последовательности с отображением операций кеширования.
+### 5. Caching
+- Identify parts of the system to cache and choose an approach.
+- Develop a cache invalidation strategy and describe the process.
+- Draw a sequence diagram showing caching operations.
